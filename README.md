@@ -13,9 +13,7 @@ Ideal for beginners learning Redux Toolkit and building scalable front-end archi
 
 ---
 
-## 📸 Screenshot
-
-> 📍 Counter UI.
+## 📸 Counter UI
 
 ![Counter App Screenshot](./src/assets/Counter%20-%20Redux.png)
 
