@@ -6,7 +6,7 @@ const Counter = () => {
   const dispatch = useDispatch();
 
   return (
-    <section className="bg-white w-md rounded-2xl shadow-lg p-8">
+    <section className="bg-white sm:w-sm md:w-md lg:w-md rounded-2xl shadow-lg p-8">
       {/* Title */}
       <p className="text-2xl font-bold text-gray-800 text-center">
         Counter App
