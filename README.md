@@ -15,9 +15,11 @@ Ideal for beginners learning Redux Toolkit and building scalable front-end archi
 
 ## 📸 Counter UI
 
-![Counter App Screenshot](./src/assets/Counter%20-%20Redux.png)
+## ![Counter App Screenshot](./src/assets/Counter%20-%20Redux.png)
 
----
+## 📸 Counter UI Video
+
+## ![Counter App Video](./src/assets/Redux%20-%20Counter.gif)
 
 ## 🔧 Project Structure
 
